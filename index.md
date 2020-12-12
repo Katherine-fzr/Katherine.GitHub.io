@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to Katherine's GitHub Pages
+## 个人简介
+### 基本信息
+- 姓名：范志然                    - 性别：女
+- 民族：汉族                      - 生日：2002.12.29
+- 籍贯：山东省                    - 政治面貌：团员
+- 学校：南京理工大学+考文垂大学      - 专业：工业设计（中外合作办学）
 
-You can use the [editor on GitHub](https://github.com/Katherine-fzr/Katherine.github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
+- 手机：157XXXX6180
+- QQ:1398441982
+- 邮箱：1398441982@qq.com
+- 博客：https：//Katherine.github.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 兴趣爱好
+- 舞蹈 跑步 画画 旅游 拍照 看电影 交朋友
 
-### Markdown
+### 教育经历
+- 初中：山东省聊城文轩中学
+- 高中：山东省聊城第一中学
+- 大学：南京理工大学
+### 任职经历
+- 初中：副班长 卫生委员
+- 高中：班长 语文课代表 生物课代表宿舍长
+- 大学：团支书 学生会初干 街舞社学员
+### 获奖记录
+文心雕龙杯全国校园文学艺术大赛国家二等奖
+全国中学生科普科幻作文大赛国家二等奖
+奥林匹克地球知识竞赛山东省二等奖
+高中女子1500校一等奖
+优秀班干部
+三好学生
+新生运动会女子800第五名
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**未来规划** 
+1.提升英语能力，考完四六级并且于大三考雅思。
+2.大四在英国考文垂修满学分领取毕业证书后回国考研。
+3.学会熟练运用各种办公绘图软件，并且去积极主动设计创作。
+4.从事设计相关工作。
 
-```markdown
-Syntax highlighted code block
+**致自己**
+星光不问赶路人
+时光不负有心人
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Katherine-fzr/Katherine.github/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
